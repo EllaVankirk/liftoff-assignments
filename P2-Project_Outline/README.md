@@ -13,6 +13,6 @@ User Login, Add/Edit/Delete habits, Search(by name/color/all) habits, display ha
 ### Technologies
 C#, ASP.Net, JavaScript, SQL. (Bootstrap?)
 ### What I'll Have to Learn
-How to display a Calendar, how and what to use in Bootstrap, and I'm not sure what else as of 02/27/2021
+How to use the built in functionalities (System.X.".." etc)to be able to display a Calendar, and store color codes. How and what to use in Bootstrap, and I'm not sure what else as of 02/27/2021
 ### Project Tracker
 https://trello.com/b/nYtyO0be/codergirl
