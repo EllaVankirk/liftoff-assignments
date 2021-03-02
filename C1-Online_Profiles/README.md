@@ -7,8 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
- 
+https://github.com/EllaVankirk 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
