@@ -9,7 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 A habit tracker that will allow you to add elements to a calendar to keep track of your habits and activities. It can also provide an average as to how frequently you do everything.
 ### Features
-User Login, Add/Edit/Delete habits, Search/View(by name/color/all) habits.
+User Login, Database, Add/Edit/Delete habits, Search/View(by name/color/all) habits.
 ### Technologies
 C#, ASP.Net, JavaScript, SQL. (Bootstrap?)
 ### What I'll Have to Learn
