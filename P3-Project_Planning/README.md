@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 ![Wireframe1](https://github.com/EllaVankirk/liftoff-assignments/blob/master/P3-Project_Planning/HabitTrackerPage1.png)
-![Wireframe2] (https://github.com/EllaVankirk/liftoff-assignments/blob/master/P3-Project_Planning/HabitTrackerPage2.png)
+![Wireframe2](https://github.com/EllaVankirk/liftoff-assignments/blob/master/P3-Project_Planning/HabitTrackerPage2.png)
 ![Wireframe3](https://github.com/EllaVankirk/liftoff-assignments/blob/master/P3-Project_Planning/HabitTrackerPage3.png)
 
 ### Project Tracker
