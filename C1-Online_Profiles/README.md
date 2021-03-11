@@ -9,7 +9,7 @@ For this assignment you will need to upload your resume and provide links to you
 ### GitHub
 https://github.com/EllaVankirk 
 ### LinkedIn
-https://www.linkedin.com/in/gabriella-vankirk-394992204
+ www.linkedin.com/in/gabriella-vankirk
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
