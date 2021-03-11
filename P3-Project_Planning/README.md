@@ -16,4 +16,4 @@ https://trello.com/b/nYtyO0be/habittracker-backlog
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/EllaVankirk/HabitTracker
